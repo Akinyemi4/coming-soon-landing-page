@@ -36,7 +36,6 @@ body {
     align-items: center;
     justify-items: center;
     padding: 24px 48px;
-    /* background-color: red; */
     box-shadow: 0px 0px 24px 12px rgba(0, 0, 0, 0.06);
 }
 .logo-con {
@@ -63,8 +62,6 @@ body {
     font-size: 12px;
     color: #b2b2b2;
     letter-spacing: 0.2px;
-
-    /* font-size: ; */
 }
 .btn-mobile-nav {
     border: none;
@@ -76,7 +73,6 @@ body {
     cursor: pointer;
     justify-self: center;
     align-self: center;
-    /* margin-right: 20px; */
 }
 .container {
     max-width: 1200px;
@@ -84,14 +80,8 @@ body {
     padding: 16px;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    /* background-color: red; */
     position: relative;
 }
-/* section {
-    background-color: white;
-    position: relative;
-    z-index: -1;
-} */
 .hero-text {
     align-self: center;
     justify-self: start;
